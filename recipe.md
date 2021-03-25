@@ -1,8 +1,20 @@
-# opdracht_recept_git-branching
-
-INSTRUCTIONS
+**INGREDIENTS**
  
-**Directions**
+100 g Almond flour
+100 g white flour
+200 g coconut oil
+200 ml Maple syrup
+60 g Cacao
+1 tbsp Vanilla
+200 g Beetroot cooked and chopped roughly
+1 tbsp baking powder
+200 g dark Choc
+150 ml boiling water
+Freeze dried raspberries to decorate
+
+**INSTRUCTIONS**
+ 
+**_Directions_**
 Preheat oven to _180 degrees_
 Blend beet, maple syrup and vanilla till super smooth
 Sieve and mix dry ingredients mix with wet ingredients
